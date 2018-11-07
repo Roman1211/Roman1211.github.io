@@ -8,8 +8,6 @@ body {
   padding-bottom: 32px;
 }
 
-
-/* BEGIN (write your solution here) */
 p {
   margin-top: 0;
   margin-bottom: 12px;
@@ -44,5 +42,3 @@ h3 {
   margin-top: 64px;
   text-align: center;
 }
-
-/* END */
